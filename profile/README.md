@@ -1,2 +1,2 @@
 # Comunidad Open Source eUdeC
-*Oops, descripción pendiente . . .*
+*Ups, descripción pendiente . . .*
